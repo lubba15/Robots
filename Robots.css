@@ -1,0 +1,42 @@
+h1{
+  margin-left: 15em;;
+  margin-top: 84px;
+}
+.red{
+  width:80px;
+  width:80px;
+ height:80px;
+ border:5px solid black;
+ border-radius: 50px;
+ background-color: red;
+ }
+
+.orange{
+ width:80px;
+height:80px;
+border:5px solid black;
+border-radius: 50px;
+background-color: orange;
+}
+.green{
+  width:80px;
+height:80px;
+border:5px solid black;
+border-radius: 50px;
+background-color: green;
+}
+.off{
+  opacity: 0.3;
+}
+.Robots{
+background: black;
+width: 91px;
+border-radius: 15px;
+}
+div{
+    padding: 0%;
+    margin: auto
+}
+.text-area{
+  padding-left:30em;
+}
